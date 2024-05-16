@@ -20,7 +20,7 @@ This project uses a Python virtual environment. To set up the environment and in
 
 2. **Create a Virtual Environment**:
     ```bash
-    python -m venv venv
+    python -m venv env
     ```
 
 3. **Activate the Virtual Environment**:
@@ -30,7 +30,7 @@ This project uses a Python virtual environment. To set up the environment and in
         ```
     - **MacOS/Linux**:
         ```bash
-        source venv/bin/activate
+        source env/bin/activate
         ```
 
 4. **Install Requirements**:
