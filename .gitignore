@@ -1,0 +1,17 @@
+# Virtual environment
+env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# VS Code settings
+.vscode/
+
+# MacOS/Linux/Windows system files
+.DS_Store
+*.swp
