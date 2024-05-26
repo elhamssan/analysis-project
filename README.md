@@ -14,8 +14,8 @@ This project uses a Python virtual environment. To set up the environment and in
 
 1. **Clone the Repository**:
     ```bash
-    git clone <repository_url>
-    cd <repository_directory>
+    git clone https://github.com/elhamssan/analysis-project
+    cd analysis-project
     ```
 
 2. **Create a Virtual Environment**:
@@ -26,7 +26,7 @@ This project uses a Python virtual environment. To set up the environment and in
 3. **Activate the Virtual Environment**:
     - **Windows**:
         ```bash
-        venv\Scripts\activate
+        env\Scripts\activate
         ```
     - **MacOS/Linux**:
         ```bash
